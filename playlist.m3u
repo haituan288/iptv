@@ -1,0 +1,301 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml,https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.catvod.com/epg.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://epg.one/epg2.xml,https://epg.pw/xmltv/epg_AU.xml,https://epg.pw/xmltv/epg_ID.xml,https://epg.pw/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_FR.xml"
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM" group-logo="https://i.imgur.com/NB53sZL.png",VTV1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV4 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV5 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV5 TÂY NAM BỘ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV5 TÂY NGUYÊN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV6 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV7 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV8 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV9 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTV - ĐÀI TH VIỆT NAM",VTV10 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" group-logo="https://i.imgur.com/ZCB4rmF.png",TH VĨNH LONG 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH VĨNH LONG 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH VĨNH LONG 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH VĨNH LONG 4 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH VĨNH LONG 5 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png",HTV1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV2 - Vie Channel HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV4 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV5 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV7 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV9 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTV - ĐÀI PTTH TPHCM",HTV THỂ THAO HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM" group-logo="https://i.imgur.com/5X1BPGr.png",HTVC CA NHẠC HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC DU LỊCH & CUỘC SỐNG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC GIA ĐÌNH HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC PHIM HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC PHỤ NỮ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC THUẦN VIỆT HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH HTVC - ĐÀI PTTH TPHCM",HTVC+ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ATV1 - TH AN GIANG 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ATV2 - TH AN GIANG 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ATV3 - TH AN GIANG 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",CTV - TH CÀ MAU HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH CẦN THƠ 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH CẦN THƠ 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TH CẦN THƠ 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ĐNNRTV1 - TH ĐỒNG NAI 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ĐNNRTV2 - TH ĐỒNG NAI 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",THĐT1 - TH ĐỒNG THÁP 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",MIỀN TÂY THĐT2 - TH ĐỒNG THÁP 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",LTV1 - TH LÂM ĐỒNG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",LTV2 - TH LÂM ĐỒNG 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TN - TH TÂY NINH HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ĐNRT1 - TH TP. ĐÀ NẴNG 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ĐNRT2 - TH TP. ĐÀ NẴNG 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",DRT - TH ĐẮK LẮK HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",GTV - TH GIA LAI HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",BHT TV - TH HÀ TĨNH HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",HueTV - TH TP. HUẾ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",KTV - TH KHÁNH HÒA HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",KTV1 - TH KHÁNH HÒA 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",NTV - TH NGHỆ AN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",QNgTV1 - TH QUẢNG NGÃI HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",QNgTV2 - TH QUẢNG NGÃI 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",QTTV - TH QUẢNG TRỊ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TTV - TH THANH HOÁ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",H1 - TH HÀ NỘI 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",H2 - TH HÀ NỘI 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",HiTV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",YouTV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",BTV - TH BẮC NINH HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",CRTV - TH CAO BẰNG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",ĐTV - TH ĐIỆN BIÊN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",THP - TH TP. HẢI PHÒNG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",THP3 - TH TP. HẢI PHÒNG 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",HYTV - TH HƯNG YÊN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",LTV - TH LAI CHÂU HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",LSTV - TH LẠNG SƠN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",THLC - TH LÀO CAI HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",NBTV - TH NINH BÌNH HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",PTV - TH PHÚ THỌ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",QTV1 - TH QUẢNG NINH 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",QTV3 - TH QUẢNG NINH 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",STV - TH SƠN LA HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TN - TH THÁI NGUYÊN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TTV - TH TUYÊN QUANG HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist" group-logo="https://i.imgur.com/1zCLFYw.png",SCTV1 HD
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV PHIM TỔNG HỢP HD
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV11 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv11
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV12 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv12
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV13 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv13
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV14 - KÊNH PHIM VIỆT HD
+https://hoiquan.dpdns.org/VTVGo/?sctv14
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
+https://hoiquan.dpdns.org/VTVGo/?sctv16
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV18 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv18
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV19 - Channel T HD
+https://hoiquan.dpdns.org/VTVGo/?sctv19
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV2 - todayTV HD
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV20 - iTV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv20
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV21 - VIỆT NAM KÝ ỨC HD
+https://hoiquan.dpdns.org/VTVGo/?sctv21
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV3 - SEE TV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv3
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV4 - LET'S VIỆT HD
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV6 - FIM 360 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV7 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv7
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV8 - VITV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv8
+#EXTINF:-1 group-title="KÊNH SCTV - TH CÁP Saigontourist",SCTV9 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv9
+
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" group-logo="https://i.postimg.cc/vZkhLrtH/Dacsac.png",Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" group-logo="https://i.imgur.com/gQWANtJ.png",CARTOON NETWORK HD
+http://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="KÊNH THIẾU NHI",CARTOONITO HD
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC",DISCOVERY ASIA HD
+http://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC",DISCOVERY CHANNEL HD
+http://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC",DISCOVERY SCIENCE HD
+http://cdn4.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC",DISCOVERY TURBO
+https://tvsen6.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KÊNH PHIM TRUYỆN",Filmbox
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH PHIM TRUYỆN",Filmbox Arthouse
+https://dash.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
